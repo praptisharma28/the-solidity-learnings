@@ -1,34 +1,3 @@
-# Ultimate Solidity Smart Contract Course - For Complete Beginners 🔥
-
-Welcome to the Ultimate Solidity Smart Contract Course for Complete Beginners! My goal here is to teach you everything you need to know to help you <ins>kickstart your career as a Solidity Developer</ins> 🚀
-
-<div align="center">Watch the Course (Netflix Style) <br>And Keep Track of Your Progress Here👇</div>
-
-<p align="center">
-  <a href="https://academy.nazaweb.com/ultimate-solidity-smart-contract-course">
-    <img src="https://i.imgur.com/fOWj3T6.png" style="max-width:400px; width:100%;">
-  </a>
-</p>
-
-# What You Will Learn 🚀
-
-In this course, you will learn:
-
-- **Solidity basics:** You will start with the basics of Solidity, learning about variables and how to build a basic calculator contract.
-
-- **Blockchain deployment:** Learn how to deploy your Solidity contracts to a blockchain.
-
-- **Deep dive into Solidity:** You will explore in depth topics like mappings, arrays, structs, require statements, modifiers, and events.
-
-- **Build a Twitter Contract:** Step-by-step, you will build a Twitter contract, adding features like structs, limiting tweet lengths, adding likes, and more.
-
-- **Integrate with a DApp:** You will learn how to integrate your Twitter contract into a DApp.
-
-- **Advanced Solidity concepts:** Towards the end of the course, you will learn about loops, contract inheritance, and contract-to-contract interaction.
-
-- **Final Project:** At the end of the course, you will add user profiles to your Twitter contract, and also add account creation functionality to your DApp.
-
-
 # Lessons 📝 - Part 1
 # 1 - What is Solidity? 🔥
 
@@ -177,39 +146,3 @@ In this course, you will learn:
 
 
 ## Let's goooooo! You crushed it! 🚀
-
-Part 2... Coming Soon
-
-# Free Goodwill
-
-"People who help others(with zero expectation)experience higher levels of fulfillment, live longer, and make more money" - Alex Hormozi
-
-So I would like to create an opportunity to deliver this value to you while taking this course 🔥
-
-One of my biggest missions in LIFE is to help others👇 
-
-1️⃣ Become the developers they want to be without going to college
-
-2️⃣ In the future, turn their career into a business that will provide them with the freedom they deserve
-
-3️⃣ And to do in as fun way as possible 
-
-The only way for us to do that, is by reaching as many people as possible! And like it or not, most people do judge a book by its cover(reviews and comments) 😉
-
-So if you got any value from this course so far, I would apprecaite it if you take a moment right now to leave an honest review of the course! It will cost you 0 cents and less then 60 seconds 🙂
-
-👉 It will help aspiring developers to discover this course and start learning
-
-👉 It will help an aspiring developer support his or her family
-
-👉 It has the potential to create a success story that otherwise could have never happened
-
-All you have to do is 👇
-
-1️⃣ Leave a comment on the [Youtube Video](google.com) 
-
-2️⃣ Star ⭐ This Repository
-
-3️⃣ Leave a review on our company site [here](https://www.trustpilot.com/review/nazaweb.com)
-
-Thank you so much! I really do apprecaite it! ❤️
