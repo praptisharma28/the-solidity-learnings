@@ -1,0 +1,93 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "userAddress",
+						"type": "address"
+					},
+					{
+						"internalType": "string",
+						"name": "username",
+						"type": "string"
+					}
+				],
+				"name": "createUser",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "players",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "playerAddress",
+						"type": "address"
+					},
+					{
+						"internalType": "string",
+						"name": "username",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "score",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ultimate-solidity-course-for-complete-beginners-main/Exercises/27-Interaction-Exercise-User.sol": "User"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ultimate-solidity-course-for-complete-beginners-main/Exercises/27-Interaction-Exercise-User.sol": {
+			"keccak256": "0xd7ca6fb2dda77d2dd94f06a8eff15f55029997ea655c05bedac70f34fc29087d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://66687e8e4e3d02f45a09f66924a26b3996229898c0212f41bcf51dabd8132258",
+				"dweb:/ipfs/QmTzeekKzkviYEsEiKtP4GTYn1gEQ6Xridnnq8JYfvaHdA"
+			]
+		}
+	},
+	"version": 1
+}
